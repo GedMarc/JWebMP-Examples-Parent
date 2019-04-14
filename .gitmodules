@@ -1,0 +1,24 @@
+[submodule "Undertow/AngularVariables"]
+	path = Undertow/AngularVariables
+	url = https://github.com/GedMarc/JWebMP-Examples-Undertow-AngularVariableWatcher
+[submodule "Undertow/BootstrapDateTimePickerExample"]
+	path = Undertow/BootstrapDateTimePickerExample
+	url = https://github.com/GedMarc/JWebMP-Examples-Undertow-Bootstrap4DateTimePicker.git
+[submodule "Undertow/DataTablesExample"]
+	path = Undertow/DataTablesExample
+	url = https://github.com/GedMarc/JWebMP-Examples-Undertow-DataTables.git
+[submodule "Undertow/HelloWorld"]
+	path = Undertow/HelloWorld
+	url = https://github.com/GedMarc/JWebMP-Examples-Undertow-HelloWorld.git
+[submodule "Undertow/SmartWizard"]
+	path = Undertow/SmartWizard
+	url = https://github.com/GedMarc/JWebMP-Examples-Undertow-SmartWizard.git
+[submodule "Undertow/LayoutExample"]
+	path = Undertow/LayoutExample
+	url = https://github.com/GedMarc/JWebMP-Examples-Undertow-Layout.git
+[submodule "HelloWorld"]
+	path = HelloWorld
+	url = https://github.com/GedMarc/JWebMP-Examples-PayaraMicro-HelloWorld.git
+[submodule "PayaraMicro/HelloWorld"]
+	path = PayaraMicro/HelloWorld
+	url = https://github.com/GedMarc/JWebMP-Examples-PayaraMicro-HelloWorld.git
