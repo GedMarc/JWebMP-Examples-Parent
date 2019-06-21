@@ -16,6 +16,7 @@
 
     <modules>
         <module>HelloWorld</module>
+		<module>HelloWorldJSF</module>
         <module>LayoutExample</module>
         <module>AngularVariables</module>
         <module>DataTablesExample</module>
