@@ -22,3 +22,6 @@
 [submodule "PayaraMicro/HelloWorld"]
 	path = PayaraMicro/HelloWorld
 	url = https://github.com/GedMarc/JWebMP-Examples-PayaraMicro-HelloWorld.git
+[submodule "Undertow/HelloWorldJSF"]
+	path = Undertow/HelloWorldJSF
+	url = https://github.com/GedMarc/JWebMP-Examples-Undertow-HelloWorldJSF
