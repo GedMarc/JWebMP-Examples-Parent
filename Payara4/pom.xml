@@ -11,7 +11,7 @@
     <artifactId>jwebmp-examples-payara4</artifactId>
     <packaging>pom</packaging>
 
-    <name>Glassfish</name>
+    <name>Payara4 Examples</name>
     <description>The root folder for glassfish examples</description>
 
     <profiles>
