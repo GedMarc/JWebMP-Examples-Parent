@@ -18,9 +18,10 @@
         <profile>
             <id>devkit</id>
             <modules>
-                <module>Glassfish</module>
+                <!-- Only modules that can run in JDK 12 are now done-->
+               <!-- <module>Glassfish</module>
                 <module>Payara4</module>
-                <module>PayaraMicro</module>
+                <module>PayaraMicro</module>-->
                 <module>Undertow</module>
             </modules>
         </profile>
