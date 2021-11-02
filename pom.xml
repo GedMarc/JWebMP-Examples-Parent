@@ -10,7 +10,7 @@
     <groupId>com.jwebmp.examples</groupId>
     <artifactId>jwebmp-examples-parent</artifactId>
     <packaging>pom</packaging>
-
+    <version>0.0.0_0-SNAPSHOT</version>
     <name>JWebMP Examples</name>
     <description>The root group holder for examples on JWebMP</description>
 
